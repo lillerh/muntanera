@@ -59,28 +59,25 @@
       max-width: 600px;
       margin: 1rem auto;
       text-align: center;
-    }
+  }
     
   .main-container span {
       display: inline-block;
       padding: 5px 12px;
       line-height: 1.5;
-    }
+      font-size:30px;
+          text-align: center;
 
+  }
 
-
-.past-events-title{
-    text-align: center;
-    font-style: italic;
-}
 
 .events-img{
-    padding-left: 10px;
+    padding-left: 60px;
 }
 
 .imgevents {
-    width:80px;
-    height:28px;
+  width:304px;
+    height:228px;
     border-radius: 1%;
     align-self: center;
 }
