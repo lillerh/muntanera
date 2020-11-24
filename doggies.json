@@ -1,0 +1,142 @@
+[
+	{
+		"name":"Lola",
+		"age":"5 years",
+		"sex":"Female",
+		"picture":"./images/dog1.jpg",
+		"size":"Medium",
+		"description":"Lola has recently come in and we are evaluing her character. If you are interested, her adoption date starts in February 15, 2017. You can ask for more information in the center. Thank you!",
+		"breed":"Cross-breed",
+		"weight":"12.50kg"
+	},
+	{
+		"name":"Nena",
+		"age":"5 months",
+		"sex":"Female",
+		"picture":"./images/dog2.jpg",
+		"size":"Medium",
+		"description":"Although Nena is quite young, she's been with us from her birth date. Her mother was rescued pregnant and she gave birth to 4 beautiful puppies. Nena's sibblings had been adopted already but she and her mom still waiting.",
+		"breed":"Cross-breed",
+		"weight":"5.60kg"
+	},
+	{
+		"name":"Brinco",
+		"age":"3 years",
+		"sex":"Male",
+		"picture":"./images/dog3.jpg",
+		"size":"Big",
+		"description":"Brinco is in our shelter for one year by now. He entered with several damages in all his body and a really bad behavior toward other dogs and humans. With patience and perseverance we achieved positive results and now he can even play in the backyard with all the other sociable dogs.",
+		"breed":"Border Collie cross",
+		"weight":"33.80kg"
+	},
+	{
+		"name":"Blacky",
+		"age":"7 months",
+		"sex":"Male",
+		"picture":"./images/dog4.jpg",
+		"size":"Big",
+		"description":"Blacky has been with us for a week. We still studying his behavior. Adoption date start in Marc 25th.",
+		"breed":"Gran Danes cross",
+		"weight":"7.85kg"
+	},
+	{
+		"name":"Crispy",
+		"age":"10 years",
+		"sex":"Female",
+		"picture":"./images/dog5.jpg",
+		"size":"Small",
+		"description":"Crispy is one of our veterans in the shelter. She's been here for so long that she already knows the mood of each one of the workers. She is has a wonderful soul and will be perfect for quiet environments.",
+		"breed":"Chihuahua cross",
+		"weight":"9.5kg"
+	},
+	{
+		"name":"Leo",
+		"age":"5 years",
+		"sex":"Male",
+		"picture":"./images/dog6.jpg",
+		"size":"Big",
+		"description":"Leo is a lovely doggie! He is for long the happiest dog we've ever seen in the shelter. Loves kids and any kind of animals. Our team can't understand how he's been here for two years. Give him an opportunity and you won't regret it!",
+		"breed":"German Shepherd corss",
+		"weight":"30.67kg"
+	},
+	{
+		"name":"Max",
+		"age":"2 years",
+		"sex":"Male",
+		"picture":"./images/dog7.jpg",
+		"size":"Big",
+		"description":"Max has been with us for one year. He was about to 'go to sleep' when we found him. Due to his owners lack of responsability he had trouble with other dogs in the past causing one dead. Nowadays, he's making progress and he can even share his food with one of the youngest of our shelter.",
+		"breed":"",
+		"weight":""
+	},
+	{
+		"name":"Pop & Nika",
+		"age":"2 months",
+		"sex":"Pop is a male and Nika is a Female",
+		"picture":"./images/dog8.jpg",
+		"size":"Big",
+		"description":"They were found thrown in the trash on February 7th and they are here since then. As they are still pups our team needs some time to get to know their ways, but the good news is they are open for adoption! So, don't think it and give those little boys a nice family were to have better experiences than the ones they already lived.",
+		"breed":"German Sheperd cross",
+		"weight":"10.50kg"
+	},
+	{
+		"name":"Ender",
+		"age":"2 years",
+		"sex":"Male",
+		"picture":"./images/dog9.jpg",
+		"size":"Medium",
+		"description":"Ender is this preciousness of only 2 years. He is a dog with a very good character, and we don't understand how someone could have abandoned such a good dog ...",
+		"breed":"American Pitbull Terrier",
+		"weight":"32.85kg"
+	},
+	{
+		"name":"Tweed",
+		"age":"3 years",
+		"sex":"Male",
+		"picture":"./images/dog10.jpg",
+		"size":"Big",
+		"description":"The good Tweed needs a little patience to finish the training to feel comfortable with people, but lives perfectly with the other dogs. He is a difficult puppy that needs time and patience, but if you have it he will be a fantastic puppy.",
+		"breed":"Goldendoodle cross",
+		"weight":"42.75kg"
+	},
+	{
+		"name":"Bufa",
+		"age":"6 months",
+		"sex":"Female",
+		"picture":"./images/dog11.jpg",
+		"size":"Medium",
+		"description":"Bufa entered on February 2nd so our team stills getting to know her.",
+		"breed":"Cross-breed",
+		"weight":"8kgs"
+	},
+	{
+		"name":"Bimba",
+		"age":"3 years",
+		"sex":"Female",
+		"picture":"./images/dog12.jpg",
+		"size":"Big",
+		"description":"",
+		"breed":"Dogo cross",
+		"weight":"40.25kg"
+	},
+	{
+		"name":"Bea",
+		"age":"8 years",
+		"sex":"Female",
+		"picture":"./images/dog13.jpg",
+		"size":"Medium",
+		"description":"She is a very good dog that does not deserve to spend what is left of life in a shelter. It is a true love!",
+		"breed":"Cross-breed",
+		"weight":"13.30kg"
+	},
+	{
+		"name":"Bambie",
+		"age":"10 months",
+		"sex":"Male",
+		"picture":"./images/dog14.jpg",
+		"size":"Small",
+		"description":"Bambie entered recently to the shelter and we are evaluating his character.",
+		"breed":"Jack Russell terrier cross",
+		"weight":"7.2kg"
+	}	
+]
